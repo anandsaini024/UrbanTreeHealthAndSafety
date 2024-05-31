@@ -1,14 +1,12 @@
-# UrbanTreeHealthAndSafety
+# Challenge 8 and 11
+## UrbanTreeHealthAndSafety
 Monitoring trees' health status by combining data from in-situ IoT devices and EO satellites
 
 
-Challenge 8 and 11
-
-Guidline
-
+**Guidelines:**
 
 1.Data
-We have two source that collect two type of data. The objectiv here is to match the sources.
+We have two source that collect two type of data. The objectif here is to match the sources.
 
 Source 1:
 In SITU DATA :
@@ -24,8 +22,6 @@ Satellite DATA :
 
 2. Make the super resolution
 3. Single analyse tree
-
-Objectif:
 
 =======
 Steps to do:
