@@ -17,8 +17,8 @@ In SITU DATA :
    
 Source2:
 Satellite DATA :
-  a. S2 (helath trees)
-  b. S3 (air quality)
+  a. S2 (helath trees): eg geolocalized numbers
+  b. S3 (surface temperature): don't know if it's better to work with images or 
   c. S5P (air quality)
   d. HR Optical (not yet)
 
@@ -31,5 +31,9 @@ Objectif:
 Steps to do:
 - reproduce the super resolution algoritms to mak ethem work on sentinel 2, 3 and 5p
 - assemble and make the Health Tree Platform (HTP) working
-- acquire 
+- acquire in situ data from AQP, HTP and Public in situ data about trees and air quality,
+- perform an AI image recognition model to find and geolocalize trees in an image
+- get tree information from HTP, Sentinel 2, Sentinel 3 and sentinel 5p and merge them in a single database 
+- use a final AI algorithm to determine healt and stability of each trees in the AOI
+  
 
