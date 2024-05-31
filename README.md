@@ -5,10 +5,12 @@ Monitoring trees' health status by combining data from in-situ IoT devices and E
 
 **Guidelines:**
 
-1.Data
+1. Description of the Datasets:
+   
 We have two source that collect two type of data. The objectif here is to match the sources.
 
 Source 1:
+
 In SITU DATA :
    a. AQP (air quality)
    b. HTP (helath trees)
